@@ -1,0 +1,10 @@
+.boxstyle{
+    padding: 30px;
+    border-style:dashed;
+    font-size:20px;
+    border-radius: 70px;
+    background-color: aqua;
+    color: red;
+    font-weight: 'bold';
+    padding:10px;
+}
